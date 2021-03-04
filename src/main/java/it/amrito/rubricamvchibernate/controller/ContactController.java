@@ -30,6 +30,8 @@ public class ContactController {
     @Autowired
     ContactBo contactBo;
     
+    private final static String caricato="HO caricato i cambiamenti su github";
+    
     @GetMapping({"", "/index", "/home"})
     public String home(Model model){
         System.out.println("IM calling the ContactcONTROLLER.HOME()");
