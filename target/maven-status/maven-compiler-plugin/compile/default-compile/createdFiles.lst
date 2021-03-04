@@ -1,0 +1,17 @@
+it/amrito/rubricamvchibernate/domain/Group.class
+it/amrito/rubricamvchibernate/domain/Message.class
+it/amrito/rubricamvchibernate/controller/IndexController.class
+it/amrito/rubricamvchibernate/dao/ContactDao.class
+it/amrito/rubricamvchibernate/util/DbSetup.class
+it/amrito/rubricamvchibernate/business/ContactBo.class
+it/amrito/rubricamvchibernate/domain/AbstractEntity.class
+it/amrito/rubricamvchibernate/dao/impl/GroupDaoImpl.class
+it/amrito/rubricamvchibernate/dao/impl/ContactDaoImpl.class
+it/amrito/rubricamvchibernate/controller/GroupController.class
+it/amrito/rubricamvchibernate/controller/ContactController.class
+it/amrito/rubricamvchibernate/business/GroupBo.class
+it/amrito/rubricamvchibernate/business/impl/ContactBoImpl.class
+it/amrito/rubricamvchibernate/util/Main.class
+it/amrito/rubricamvchibernate/business/impl/GroupBoImpl.class
+it/amrito/rubricamvchibernate/domain/Contact.class
+it/amrito/rubricamvchibernate/dao/GroupDao.class

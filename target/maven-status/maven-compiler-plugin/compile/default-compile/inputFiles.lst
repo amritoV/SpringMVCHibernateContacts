@@ -1,0 +1,17 @@
+/home/amrit/NetBeansProjects/RubricaMvcHibernate/src/main/java/it/amrito/rubricamvchibernate/controller/IndexController.java
+/home/amrit/NetBeansProjects/RubricaMvcHibernate/src/main/java/it/amrito/rubricamvchibernate/business/impl/GroupBoImpl.java
+/home/amrit/NetBeansProjects/RubricaMvcHibernate/src/main/java/it/amrito/rubricamvchibernate/domain/AbstractEntity.java
+/home/amrit/NetBeansProjects/RubricaMvcHibernate/src/main/java/it/amrito/rubricamvchibernate/domain/Group.java
+/home/amrit/NetBeansProjects/RubricaMvcHibernate/src/main/java/it/amrito/rubricamvchibernate/dao/impl/ContactDaoImpl.java
+/home/amrit/NetBeansProjects/RubricaMvcHibernate/src/main/java/it/amrito/rubricamvchibernate/business/impl/ContactBoImpl.java
+/home/amrit/NetBeansProjects/RubricaMvcHibernate/src/main/java/it/amrito/rubricamvchibernate/domain/Message.java
+/home/amrit/NetBeansProjects/RubricaMvcHibernate/src/main/java/it/amrito/rubricamvchibernate/controller/ContactController.java
+/home/amrit/NetBeansProjects/RubricaMvcHibernate/src/main/java/it/amrito/rubricamvchibernate/business/GroupBo.java
+/home/amrit/NetBeansProjects/RubricaMvcHibernate/src/main/java/it/amrito/rubricamvchibernate/dao/GroupDao.java
+/home/amrit/NetBeansProjects/RubricaMvcHibernate/src/main/java/it/amrito/rubricamvchibernate/controller/GroupController.java
+/home/amrit/NetBeansProjects/RubricaMvcHibernate/src/main/java/it/amrito/rubricamvchibernate/domain/Contact.java
+/home/amrit/NetBeansProjects/RubricaMvcHibernate/src/main/java/it/amrito/rubricamvchibernate/util/DbSetup.java
+/home/amrit/NetBeansProjects/RubricaMvcHibernate/src/main/java/it/amrito/rubricamvchibernate/business/ContactBo.java
+/home/amrit/NetBeansProjects/RubricaMvcHibernate/src/main/java/it/amrito/rubricamvchibernate/util/Main.java
+/home/amrit/NetBeansProjects/RubricaMvcHibernate/src/main/java/it/amrito/rubricamvchibernate/dao/impl/GroupDaoImpl.java
+/home/amrit/NetBeansProjects/RubricaMvcHibernate/src/main/java/it/amrito/rubricamvchibernate/dao/ContactDao.java
