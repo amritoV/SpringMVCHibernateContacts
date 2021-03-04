@@ -30,7 +30,7 @@ public class ContactController {
     @Autowired
     ContactBo contactBo;
     
-    private final static String caricato="HO caricato i cambiamenti su github";
+    private final static String caricato="HO caricato i cambiamenti su github bla bla bla";
     
     @GetMapping({"", "/index", "/home"})
     public String home(Model model){
